@@ -1,0 +1,25 @@
+<map id="draw_folder_icon" name="draw_folder_icon">
+<area shape="rect" id="Node000001" title="Draw folder icon on the home screen." alt="" coords="5,81,123,108"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#a7eaf2cbb4185672c97583ce1ae016535" title="Draw image." alt="" coords="180,5,270,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,78,180,36,183,41,95,83"/>
+<area shape="rect" id="Node000004" href="$graphics_8c.html#ae47a47951544941d5eef0446172c8a02" title="Draw text." alt="" coords="186,81,264,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,92,171,92,171,97,123,97"/>
+<area shape="rect" id="Node000011" href="$folder__icon_8c.html#a911eab4ff223137fc23bd669020f5c17" title="Call if size has changed, updating variables related with icon&#39;s size." alt="" coords="171,132,279,159"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="110,106,167,125,166,130,108,111"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#a6426583aa71fdd9d0f4589934b8b7f41" title=" " alt="" coords="498,5,605,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,16,483,16,483,21,271,21"/>
+<area shape="rect" id="Node000005" href="$graphics_8c.html#af38ea7070e0c7c49883f64b45647ad46" title="Draw retangle fill with color." alt="" coords="350,31,427,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="263,80,335,58,337,63,265,85"/>
+<area shape="rect" id="Node000006" href="$graphics_8c.html#a88155fa69cfec835851ba3e1a422e902" title=" " alt="" coords="346,81,432,108"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="264,92,331,92,331,97,264,97"/>
+<area shape="rect" id="Node000007" href="$utf8__decode_8c.html#a95be701ea7f1a2e9946ddc11292fee98" title=" " alt="" coords="331,132,446,159"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="265,104,330,124,328,130,263,109"/>
+<area shape="rect" id="Node000008" href="$utf8__decode_8c.html#a6f9f021d4cb9e177a452740d32b69250" title=" " alt="" coords="327,183,450,209"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="261,106,281,118,295,131,305,144,314,156,329,169,337,173,334,178,325,173,310,160,301,147,292,135,277,122,258,111"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="428,35,483,27,484,32,428,41"/>
+<area shape="rect" id="Node000009" href="$utf8__decode_8c.html#a90edd4f5173cc25aefcc78b435d7f8cd" title=" " alt="" coords="528,157,575,184"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="450,184,513,174,514,179,451,189"/>
+<area shape="rect" id="Node000010" href="$utf8__decode_8c.html#ac7df0777ba7a2d59c4a734c9acfae989" title=" " alt="" coords="653,183,692,209"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="451,193,637,193,637,199,451,199"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="576,173,639,186,638,192,575,178"/>
+</map>

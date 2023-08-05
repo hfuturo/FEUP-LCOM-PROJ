@@ -1,0 +1,22 @@
+<map id="process_keyboard_write" name="process_keyboard_write">
+<area shape="rect" id="Node000001" title="Process special keys when writing name of file/folder." alt="" coords="5,107,167,133"/>
+<area shape="rect" id="Node000002" href="$text__box_8c.html#a58ed8fd7ec318ed95d10c48473f59452" title="Delete the char that is at the left of the cursor." alt="" coords="215,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,104,154,74,213,42,228,35,230,40,216,46,157,78,109,108"/>
+<area shape="rect" id="Node000003" href="$text__box_8c.html#a44526dccdf6f94f46b51374b2eedfc99" title="Reset the values of the variables used in the text box." alt="" coords="231,56,340,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,103,216,84,217,89,142,109"/>
+<area shape="rect" id="Node000004" href="$text__box_8c.html#a1aabf61ee54c902018d43695b6959be6" title="Move cursor of the text box to the left." alt="" coords="219,107,352,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,117,204,117,204,123,167,123"/>
+<area shape="rect" id="Node000005" href="$text__box_8c.html#afbc001a6505f8be6aca656e520c30df8" title="Move cursor of the text box to the right." alt="" coords="215,157,356,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="142,131,217,151,215,156,141,137"/>
+<area shape="rect" id="Node000006" href="$text__box_8c.html#a30800934a515726e6fbee53951dbb07f" title="Update text in text box with the new char added." alt="" coords="227,208,344,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="109,132,157,162,216,194,230,200,228,205,213,198,154,166,106,136"/>
+<area shape="rect" id="Node000007" href="$utf8__decode_8c.html#a95be701ea7f1a2e9946ddc11292fee98" title=" " alt="" coords="408,183,523,209"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="344,210,393,203,394,209,345,216"/>
+<area shape="rect" id="Node000008" href="$utf8__decode_8c.html#a6f9f021d4cb9e177a452740d32b69250" title=" " alt="" coords="404,233,527,260"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="345,227,390,233,389,239,344,232"/>
+<area shape="rect" id="Node000009" href="$utf8__decode_8c.html#a90edd4f5173cc25aefcc78b435d7f8cd" title=" " alt="" coords="575,208,622,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="527,232,561,226,562,231,528,237"/>
+<area shape="rect" id="Node000010" href="$utf8__decode_8c.html#ac7df0777ba7a2d59c4a734c9acfae989" title=" " alt="" coords="670,233,709,260"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="528,244,655,244,655,249,528,249"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="623,225,656,235,654,240,621,230"/>
+</map>

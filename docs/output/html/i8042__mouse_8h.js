@@ -1,0 +1,26 @@
+var i8042__mouse_8h =
+[
+    [ "DELAY_US", "i8042__mouse_8h.html#a1a522aa19bcb695a9df30032a893bee3", null ],
+    [ "FIRST_BYTE", "i8042__mouse_8h.html#a73d6572224ad0ac84a8587615cef947c", null ],
+    [ "KBC_CMD_REG", "i8042__mouse_8h.html#a6d57c7927a10f638c83046b52c8caac9", null ],
+    [ "KBC_IBF", "i8042__mouse_8h.html#ac1649d41f8ba9a02fa70ec4e600d5e4a", null ],
+    [ "KBC_OBF", "i8042__mouse_8h.html#a36930de8a703505c95fe133095dcfe06", null ],
+    [ "KBC_OUT_BUF", "i8042__mouse_8h.html#a1ccde68b2b6d4e45b50eef1403e10bb7", null ],
+    [ "KBC_PARITY_ERROR", "i8042__mouse_8h.html#a0f7265460a572536c68fdc54490c596b", null ],
+    [ "KBC_ST_REG", "i8042__mouse_8h.html#a6f977b36b770dca3092d0bdf8c949cfe", null ],
+    [ "KBC_TIMEOUT_ERROR", "i8042__mouse_8h.html#a07508c20d5374943481b002c0cdbb92e", null ],
+    [ "KBC_WRITE_CMD", "i8042__mouse_8h.html#aaa62a6987753a109d2f7a609ce8b7334", null ],
+    [ "MOUSE_ACK", "i8042__mouse_8h.html#a064ec583ce5b039303686ce4c64b4f3e", null ],
+    [ "MOUSE_DATA", "i8042__mouse_8h.html#a23f30a10aa0f1748c1a747f1fcba1fd6", null ],
+    [ "Mouse_Disable_Reporting", "i8042__mouse_8h.html#a90635b34707a784c8010c680e5b27cd8", null ],
+    [ "Mouse_Enable_Reporting", "i8042__mouse_8h.html#a1b754cc015a549087f2aaa4b31d8b0b1", null ],
+    [ "MOUSE_IRQ", "i8042__mouse_8h.html#a85964cb90343bb1a029b1d1b4229f910", null ],
+    [ "MOUSE_LB", "i8042__mouse_8h.html#a81c0f94add844b0761bd142f7f708431", null ],
+    [ "MOUSE_MB", "i8042__mouse_8h.html#a5a934eaadd3536aabe6df0adf6728e8e", null ],
+    [ "MOUSE_RB", "i8042__mouse_8h.html#a5f47c1d60579c8691054c939c1d7c20e", null ],
+    [ "MOUSE_X_OVERFLOW", "i8042__mouse_8h.html#a39f0e19085186976faee23616a2f48b5", null ],
+    [ "MOUSE_X_SIGNAL", "i8042__mouse_8h.html#a726368c7d58dac5edc608a58e2e92660", null ],
+    [ "MOUSE_Y_OVERFLOW", "i8042__mouse_8h.html#a056e214bb9df1114c547e8e712b7619d", null ],
+    [ "MOUSE_Y_SIGNAL", "i8042__mouse_8h.html#a4b664cf12fa3048513e4c8b856aefd65", null ],
+    [ "WRITE_BYTE_MOUSE", "i8042__mouse_8h.html#a805da0759dba314e6339d8999c44824c", null ]
+];

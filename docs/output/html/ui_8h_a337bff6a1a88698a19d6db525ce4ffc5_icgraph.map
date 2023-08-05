@@ -1,0 +1,7 @@
+<map id="draw_folder_icon" name="draw_folder_icon">
+<area shape="rect" id="Node000001" title="Draw folder icon on the home screen." alt="" coords="316,5,433,32"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1f3e0c5429ab621b286e169246bf1374" title=" " alt="" coords="162,5,268,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,21,269,21,269,16,301,16"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="open_selected" name="open_selected">
+<area shape="rect" id="Node000001" title="Open selected file/folder." alt="" coords="619,56,725,83"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#ad39bea9bf460b3803369820ffebed746" title="File list callback for when the mouse is left clicked." alt="" coords="402,5,543,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="604,55,527,35,528,30,606,50"/>
+<area shape="rect" id="Node000005" href="$state__machine_8c.html#a0519631eccece8f837cfd4de1f3f3cc2" title="Process keys that work the same with kbc or mouse." alt="" coords="373,56,571,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="604,72,572,72,572,67,604,67"/>
+<area shape="rect" id="Node000007" href="$state__machine_8c.html#a6c2c698ef111bf6a959a13bbcb076eb0" title="Call function that opens the directory selected." alt="" coords="421,107,523,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="606,89,525,110,523,104,604,84"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="169,5,318,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,21,318,21,318,16,387,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,114,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,39,111,58,110,53,177,34"/>
+<area shape="rect" id="Node000006" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,56,325,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="358,72,325,72,325,67,358,67"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="147,72,114,72,114,67,147,67"/>
+<area shape="rect" id="Node000008" href="$state__machine_8c.html#a1d779d84325179569abe939c57b19c8e" title="Setup the right click menu." alt="" coords="197,107,290,133"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="406,123,290,123,290,117,406,117"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="182,106,110,86,111,81,183,101"/>
+</map>

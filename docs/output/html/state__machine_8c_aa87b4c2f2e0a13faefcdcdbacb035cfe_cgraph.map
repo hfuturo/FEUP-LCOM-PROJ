@@ -1,0 +1,29 @@
+<map id="process_control_v" name="process_control_v">
+<area shape="rect" id="Node000001" title="Does the operating depending if control_v_operation is set to COPYING or MOVING." alt="" coords="5,188,131,215"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#a024995878271d121482e269541581237" title="Copy the content that was selected to current directory." alt="" coords="180,125,335,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,185,200,155,202,160,112,190"/>
+<area shape="rect" id="Node000007" href="$file__list_8c.html#a274c74a4830a97672a4677f712c3079b" title="Move the content that was selected to current directory." alt="" coords="179,188,336,215"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="131,199,164,199,164,204,131,204"/>
+<area shape="rect" id="Node000012" href="$file__list_8c.html#ac59914d2c3eecfd43d325ecb72c216b8" title="Set selected file and update the scroll acordingly." alt="" coords="199,264,316,291"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="105,213,210,256,208,261,103,218"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#a7fe53027573e2d3857303b5283a923d1" title="Check If the name writen by user while creating/renaming file/folder already exists in current direct..." alt="" coords="384,5,520,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,123,322,88,383,48,405,37,407,41,385,53,326,92,278,127"/>
+<area shape="rect" id="Node000004" href="$directory_8c.html#a354719ba57ff000a5c4acff755c326a3" title="Copy the current directory and all its content." alt="" coords="399,131,505,157"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="335,138,385,139,385,145,335,143"/>
+<area shape="rect" id="Node000005" href="$file_8c.html#adab4a1c8a09d54244a8c5ef9b7bbfdf1" title="Copy file." alt="" coords="592,68,665,95"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="289,122,333,106,383,92,487,80,577,77,577,83,487,85,385,97,335,111,291,127"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="422,132,417,122,420,112,432,106,452,104,474,107,485,114,482,119,472,112,452,109,434,111,424,116,422,121,426,129"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="491,128,577,97,579,102,493,133"/>
+<area shape="rect" id="Node000006" href="$directory_8c.html#a13f3531f0f76333f0dd387ce63597c0e" title="Create new directory." alt="" coords="571,131,686,157"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="506,141,556,141,556,147,506,147"/>
+<area shape="rect" id="Node000008" href="$directory_8c.html#a7660cab551148a086907e088ae917494" title="Move existing directory." alt="" coords="398,181,506,208"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="336,196,383,194,384,200,336,201"/>
+<area shape="rect" id="Node000010" href="$file_8c.html#a09f1e20c7609bcd7640d0e43157e95ba" title="Move existing file." alt="" coords="415,232,489,259"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="320,213,401,231,400,236,319,218"/>
+<area shape="rect" id="Node000009" href="$directory_8c.html#a159be1ccd9ae0063ac3d70b262f449bc" title=" " alt="" coords="568,181,689,208"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="507,192,554,192,554,197,507,197"/>
+<area shape="rect" id="Node000011" href="$file_8c.html#af6e303f5f28ebd773cc9e4965ec72781" title=" " alt="" coords="585,232,672,259"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="490,243,570,243,570,248,490,248"/>
+<area shape="rect" id="Node000013" href="$file__list_8c.html#a0d726c14d81bbc671cdabc5650af83cb" title=" " alt="" coords="414,283,491,309"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="316,280,399,288,398,294,316,286"/>
+</map>

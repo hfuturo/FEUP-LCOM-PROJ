@@ -1,0 +1,12 @@
+<map id="draw_text_box" name="draw_text_box">
+<area shape="rect" id="Node000001" title="Draw text box." alt="" coords="5,31,111,57"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#a9a01349470b6bb49a052a9ab9ed62720" title="Draw text with a diferent background in utf32." alt="" coords="159,52,312,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,50,144,56,143,61,111,55"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#af38ea7070e0c7c49883f64b45647ad46" title="Draw retangle fill with color." alt="" coords="365,5,442,32"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="111,38,350,20,350,25,111,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,49,349,33,351,38,304,54"/>
+<area shape="rect" id="Node000005" href="$graphics_8c.html#a88155fa69cfec835851ba3e1a422e902" title=" " alt="" coords="360,60,446,87"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="312,71,345,71,345,76,312,76"/>
+<area shape="rect" id="Node000004" href="$graphics_8c.html#a6426583aa71fdd9d0f4589934b8b7f41" title=" " alt="" coords="494,5,601,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,16,479,16,479,21,442,21"/>
+</map>

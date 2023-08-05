@@ -1,0 +1,12 @@
+<map id="process_delete" name="process_delete">
+<area shape="rect" id="Node000001" title="Call function that deletes the file or directory selected." alt="" coords="619,31,729,57"/>
+<area shape="rect" id="Node000002" href="$state__machine_8c.html#a1d779d84325179569abe939c57b19c8e" title="Setup the right click menu." alt="" coords="197,5,290,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="605,43,290,24,290,19,605,37"/>
+<area shape="rect" id="Node000004" href="$state__machine_8c.html#a0519631eccece8f837cfd4de1f3f3cc2" title="Process keys that work the same with kbc or mouse." alt="" coords="373,56,571,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="605,55,572,59,572,54,604,50"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,30,114,39,113,34,182,24"/>
+<area shape="rect" id="Node000005" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,56,325,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="358,72,325,72,325,67,358,67"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="147,59,114,54,114,49,147,53"/>
+</map>

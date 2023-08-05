@@ -1,0 +1,11 @@
+<map id="process_control_x" name="process_control_x">
+<area shape="rect" id="Node000001" title="Sets control_v_operation to MOVING and and calls the function that saves the information of the conte..." alt="" coords="5,31,133,57"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#a52a55e5731cabab64c863e73e83ea6e7" title="Save path and name of the selected file/folder." alt="" coords="181,5,334,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,33,166,28,166,34,134,38"/>
+<area shape="rect" id="Node000004" href="$file__list_8c.html#ac59914d2c3eecfd43d325ecb72c216b8" title="Set selected file and update the scroll acordingly." alt="" coords="199,56,316,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="134,50,185,57,184,62,133,55"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#ae739c42ab88d207de8ab3769e576a63a" title="Get selected content&#39;s name and check if it is a directory or a file." alt="" coords="382,5,504,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,16,367,16,367,21,334,21"/>
+<area shape="rect" id="Node000005" href="$file__list_8c.html#a0d726c14d81bbc671cdabc5650af83cb" title=" " alt="" coords="405,56,482,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="316,67,390,67,390,72,316,72"/>
+</map>

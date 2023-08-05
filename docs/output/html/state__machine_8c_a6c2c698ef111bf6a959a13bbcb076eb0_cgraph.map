@@ -1,0 +1,24 @@
+<map id="process_open" name="process_open">
+<area shape="rect" id="Node000001" title="Call function that opens the directory selected." alt="" coords="5,81,108,108"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#ae14604fb4b896d954c46ee21f4a8e983" title="Open selected file/folder." alt="" coords="156,56,261,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,84,140,78,141,83,108,89"/>
+<area shape="rect" id="Node000010" href="$file__list_8c.html#ac59914d2c3eecfd43d325ecb72c216b8" title="Set selected file and update the scroll acordingly." alt="" coords="312,107,428,133"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="108,96,297,112,297,117,108,101"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#ac0605065f93276fe5d8c3b8e00343f01" title=" " alt="" coords="320,5,421,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,53,311,34,312,39,254,58"/>
+<area shape="rect" id="Node000009" href="$file__list_8c.html#ae739c42ab88d207de8ab3769e576a63a" title="Get selected content&#39;s name and check if it is a directory or a file." alt="" coords="309,56,431,83"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="261,67,294,67,294,72,261,72"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="254,81,312,99,311,104,253,86"/>
+<area shape="rect" id="Node000004" href="$file__list_8c.html#a97efd0eaf1c46f3c1f7ddeef1c66b47d" title=" " alt="" coords="501,5,589,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="421,16,486,16,486,21,421,21"/>
+<area shape="rect" id="Node000007" href="$image_8c.html#a1a96f6ddec718cff1bf43c860f02f184" title="Load image from a file." alt="" coords="479,56,611,83"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="420,30,483,49,482,54,418,35"/>
+<area shape="rect" id="Node000005" href="$image_8c.html#ae72721b6a5c98818f65bd916d9c8a7a1" title="Frees image from memory." alt="" coords="659,5,736,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="590,16,644,16,644,21,590,21"/>
+<area shape="rect" id="Node000006" href="$stb__image_8h.html#ad3e11bb44412a7ba348acfbad09caacb" title=" " alt="" coords="784,5,896,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="737,16,769,16,769,21,737,21"/>
+<area shape="rect" id="Node000008" href="$stb__image_8h.html#ad3fc296ba0778df0a8094e20da82deab" title=" " alt="" coords="661,56,734,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="611,67,646,67,646,72,611,72"/>
+<area shape="rect" id="Node000011" href="$file__list_8c.html#a0d726c14d81bbc671cdabc5650af83cb" title=" " alt="" coords="506,107,584,133"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="429,117,492,117,492,123,429,123"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="create_directory" name="create_directory">
+<area shape="rect" id="Node000001" title="Create new directory." alt="" coords="1150,100,1265,127"/>
+<area shape="rect" id="Node000002" href="$state__machine_8c.html#abfa66020dfdae569fe80b540afbcd134" title="Perform create new directory action." alt="" coords="624,59,740,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1135,107,1102,104,740,78,741,73,1103,99,1136,102"/>
+<area shape="rect" id="Node000008" href="$directory_8c.html#a354719ba57ff000a5c4acff755c326a3" title="Copy the current directory and all its content." alt="" coords="996,137,1102,164"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="1137,133,1104,141,1102,135,1135,128"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#ad39bea9bf460b3803369820ffebed746" title="File list callback for when the mouse is left clicked." alt="" coords="402,5,543,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="612,57,527,35,529,30,613,52"/>
+<area shape="rect" id="Node000006" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,120,325,147"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="610,90,572,97,442,115,326,128,325,123,442,110,571,92,609,85"/>
+<area shape="rect" id="Node000007" href="$file__list_8c.html#acc8bf5f620d1b6028eaf9c283139ab38" title="File list callback for when the mouse is right clicked." alt="" coords="386,56,559,83"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="610,74,559,73,559,68,610,68"/>
+<area shape="rect" id="Node000004" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="169,56,318,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="395,38,307,58,306,53,394,33"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,120,114,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,91,101,122,99,117,188,86"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="147,136,114,136,114,131,147,131"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="371,72,318,72,318,67,371,67"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="1076,125,1067,119,1049,116,1033,118,1024,123,1022,128,1026,136,1022,138,1017,129,1020,119,1031,113,1049,111,1069,114,1079,121"/>
+<area shape="rect" id="Node000009" href="$file__list_8c.html#a024995878271d121482e269541581237" title="Copy the content that was selected to current directory." alt="" coords="793,144,948,171"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="981,156,948,157,948,152,981,151"/>
+<area shape="rect" id="Node000010" href="$state__machine_8c.html#aa87b4c2f2e0a13faefcdcdbacb035cfe" title="Does the operating depending if control_v_operation is set to COPYING or MOVING." alt="" coords="619,157,745,184"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="778,167,745,169,745,164,778,161"/>
+<area shape="rect" id="Node000011" href="$state__machine_8c.html#a1d779d84325179569abe939c57b19c8e" title="Setup the right click menu." alt="" coords="197,196,290,223"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="616,191,572,199,494,207,417,211,290,213,290,207,417,206,494,201,571,193,615,185"/>
+<area shape="rect" id="Node000012" href="$state__machine_8c.html#a0519631eccece8f837cfd4de1f3f3cc2" title="Process keys that work the same with kbc or mouse." alt="" coords="373,157,571,184"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="605,173,572,173,572,168,605,168"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="194,192,93,150,95,145,196,187"/>
+<area shape="poly" id="edge16_Node000012_Node000006" title=" " alt="" coords="372,157,325,149,326,144,373,152"/>
+</map>

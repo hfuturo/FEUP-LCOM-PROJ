@@ -1,0 +1,17 @@
+<map id="pop_window" name="pop_window">
+<area shape="rect" id="Node000001" title="pop current window from the windows stack changing the current window to it&#39;s parent" alt="" coords="781,56,872,83"/>
+<area shape="rect" id="Node000002" href="$copy__window_8c.html#a1fd69a649b1984e827dae10c76881530" title="Draw window with the information of the copy status." alt="" coords="465,5,598,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="766,55,733,47,598,27,598,22,733,41,767,49"/>
+<area shape="rect" id="Node000006" href="$menu_8c.html#a7a760874374623a09ace10cfdbc472cb" title="Draw Menu." alt="" coords="646,56,733,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="766,72,733,72,733,67,766,67"/>
+<area shape="rect" id="Node000007" href="$file__list_8c.html#a234d265e67d67da422ce67326a8a2a0f" title="List all the files and directories from the current directory." alt="" coords="497,56,566,83"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="771,90,733,97,689,101,645,97,566,81,567,76,646,92,689,96,733,92,770,84"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html#abcdbbab4e0e6afd8377e6bf4409601a6" title="Draw content that is dependent of the state." alt="" coords="316,31,417,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,34,418,39,417,34,450,29"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a1f3e0c5429ab621b286e169246bf1374" title=" " alt="" coords="162,31,268,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="301,47,268,47,268,41,301,41"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,47,114,47,114,41,147,41"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="631,72,566,72,566,67,631,67"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="482,65,417,54,418,49,483,59"/>
+</map>

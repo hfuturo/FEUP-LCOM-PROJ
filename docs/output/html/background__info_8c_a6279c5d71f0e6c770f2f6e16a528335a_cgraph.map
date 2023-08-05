@@ -1,0 +1,20 @@
+<map id="draw_background_info" name="draw_background_info">
+<area shape="rect" id="Node000001" title="Draws the current date, day of the week and time in the background image." alt="" coords="5,81,155,108"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#ae47a47951544941d5eef0446172c8a02" title="Draw text." alt="" coords="203,81,280,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,92,188,92,188,97,155,97"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#af38ea7070e0c7c49883f64b45647ad46" title="Draw retangle fill with color." alt="" coords="351,5,428,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,78,327,42,338,36,341,41,329,46,266,83"/>
+<area shape="rect" id="Node000005" href="$graphics_8c.html#a88155fa69cfec835851ba3e1a422e902" title=" " alt="" coords="347,56,433,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="280,85,331,77,332,82,281,91"/>
+<area shape="rect" id="Node000006" href="$utf8__decode_8c.html#a95be701ea7f1a2e9946ddc11292fee98" title=" " alt="" coords="332,107,447,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="281,99,318,105,317,110,280,104"/>
+<area shape="rect" id="Node000007" href="$utf8__decode_8c.html#a6f9f021d4cb9e177a452740d32b69250" title=" " alt="" coords="328,157,451,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="266,106,329,143,341,148,338,153,327,148,263,111"/>
+<area shape="rect" id="Node000004" href="$graphics_8c.html#a6426583aa71fdd9d0f4589934b8b7f41" title=" " alt="" coords="499,5,606,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="429,16,485,16,485,21,429,21"/>
+<area shape="rect" id="Node000008" href="$utf8__decode_8c.html#a90edd4f5173cc25aefcc78b435d7f8cd" title=" " alt="" coords="529,132,576,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="451,158,514,149,515,154,452,164"/>
+<area shape="rect" id="Node000009" href="$utf8__decode_8c.html#ac7df0777ba7a2d59c4a734c9acfae989" title=" " alt="" coords="654,157,693,184"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="452,168,638,168,638,173,452,173"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="577,147,640,161,639,166,576,153"/>
+</map>

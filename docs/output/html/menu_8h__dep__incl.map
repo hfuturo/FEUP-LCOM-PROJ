@@ -1,0 +1,19 @@
+<map id="src/ui/menu.h" name="src/ui/menu.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="200,5,301,32"/>
+<area shape="rect" id="Node000002" href="$main_8c.html" title=" " alt="" coords="5,179,88,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,43,63,180,60,176,223,39"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html" title=" " alt="" coords="111,171,273,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,46,220,81,206,129,197,171,192,170,200,127,215,79,232,44"/>
+<area shape="rect" id="Node000004" href="$state__machine_8h.html" title=" " alt="" coords="230,80,391,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,43,297,78,293,81,267,46"/>
+<area shape="rect" id="Node000008" href="$menu_8c.html" title=" " alt="" coords="415,88,515,115"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="299,35,432,85,431,90,297,40"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="230,130,99,173,79,181,77,176,98,168,228,125"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="273,134,221,172,218,168,270,130"/>
+<area shape="rect" id="Node000005" href="$copy__window_8c.html" title=" " alt="" coords="297,179,442,205"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="334,134,363,177,359,180,330,137"/>
+<area shape="rect" id="Node000006" href="$file__list_8c.html" title=" " alt="" coords="466,179,574,205"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="374,126,491,176,489,181,372,131"/>
+<area shape="rect" id="Node000007" href="$folder__icon_8c.html" title=" " alt="" coords="599,179,729,205"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="406,123,587,168,616,176,615,181,586,173,405,128"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="rename_file" name="rename_file">
+<area shape="rect" id="Node000001" title="Rename existing file." alt="" coords="910,56,997,83"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#aabc31959cf9cfabaa752eb787b279ed6" title="Rename selected file/folder from current directory." alt="" coords="757,56,862,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="895,72,862,72,862,67,895,67"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html#ae3f83e2e5774d883646629aed0c8434a" title="Perform rename file/directory action." alt="" coords="594,56,709,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="742,72,709,72,709,67,742,67"/>
+<area shape="rect" id="Node000004" href="$file__list_8c.html#ad39bea9bf460b3803369820ffebed746" title="File list callback for when the mouse is left clicked." alt="" coords="389,5,530,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="583,54,512,35,514,30,585,49"/>
+<area shape="rect" id="Node000007" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,107,325,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="586,89,547,97,431,112,325,119,325,114,430,106,546,92,585,84"/>
+<area shape="rect" id="Node000008" href="$file__list_8c.html#acc8bf5f620d1b6028eaf9c283139ab38" title="File list callback for when the mouse is right clicked." alt="" coords="373,56,546,83"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="579,72,547,72,547,67,579,67"/>
+<area shape="rect" id="Node000005" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="169,56,318,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="386,39,304,58,303,53,385,33"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,114,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="154,84,114,90,114,85,154,79"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="147,109,114,105,114,99,147,104"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="358,72,319,72,319,67,358,67"/>
+</map>

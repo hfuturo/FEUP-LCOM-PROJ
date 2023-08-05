@@ -1,0 +1,7 @@
+<map id="release_mouse_copy_window" name="release_mouse_copy_window">
+<area shape="rect" id="Node000001" title="Copy window callback for when the mouse is released." alt="" coords="359,5,503,48"/>
+<area shape="rect" id="Node000002" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="162,13,311,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,29,312,29,312,24,344,24"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,13,114,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,29,114,29,114,24,147,24"/>
+</map>

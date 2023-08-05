@@ -1,0 +1,7 @@
+<map id="kbc_read_packet" name="kbc_read_packet">
+<area shape="rect" id="Node000001" title="Fills and Synchronizes an array of three bytes read." alt="" coords="287,5,407,32"/>
+<area shape="rect" id="Node000002" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse interrupted handler." alt="" coords="162,5,239,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,21,240,21,240,16,272,16"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

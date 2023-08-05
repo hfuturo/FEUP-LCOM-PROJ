@@ -1,0 +1,12 @@
+<map id="update_text_box" name="update_text_box">
+<area shape="rect" id="Node000001" title="Update text in text box with the new char added." alt="" coords="5,31,123,57"/>
+<area shape="rect" id="Node000002" href="$utf8__decode_8c.html#a95be701ea7f1a2e9946ddc11292fee98" title=" " alt="" coords="175,5,290,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,33,160,27,161,32,124,38"/>
+<area shape="rect" id="Node000003" href="$utf8__decode_8c.html#a6f9f021d4cb9e177a452740d32b69250" title=" " alt="" coords="171,56,294,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,50,157,55,156,61,123,55"/>
+<area shape="rect" id="Node000004" href="$utf8__decode_8c.html#a90edd4f5173cc25aefcc78b435d7f8cd" title=" " alt="" coords="342,31,388,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="294,55,327,48,328,54,295,60"/>
+<area shape="rect" id="Node000005" href="$utf8__decode_8c.html#ac7df0777ba7a2d59c4a734c9acfae989" title=" " alt="" coords="436,56,476,83"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="295,67,422,67,422,72,295,72"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="389,48,422,57,421,62,388,53"/>
+</map>

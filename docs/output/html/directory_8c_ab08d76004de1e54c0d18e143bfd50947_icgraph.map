@@ -1,0 +1,18 @@
+<map id="unlink_cb" name="unlink_cb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1098,31,1175,57"/>
+<area shape="rect" id="Node000002" href="$directory_8c.html#a4b63d3ac70ba7f13cb15b92b3ae0b4aa" title="Delete directory." alt="" coords="937,31,1050,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1083,47,1051,47,1051,41,1083,41"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#a1773e15fed8f1599f690667a290bdf3f" title="Delete selected file/folder from current directory." alt="" coords="777,31,889,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="922,47,889,47,889,41,922,41"/>
+<area shape="rect" id="Node000004" href="$state__machine_8c.html#a39b9a730e045515a769735a48b7b5a1a" title="Call function that deletes the file or directory selected." alt="" coords="619,31,729,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="761,47,729,47,729,41,761,41"/>
+<area shape="rect" id="Node000005" href="$state__machine_8c.html#a1d779d84325179569abe939c57b19c8e" title="Setup the right click menu." alt="" coords="197,5,290,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="605,43,290,24,290,19,605,37"/>
+<area shape="rect" id="Node000007" href="$state__machine_8c.html#a0519631eccece8f837cfd4de1f3f3cc2" title="Process keys that work the same with kbc or mouse." alt="" coords="373,56,571,83"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="605,55,572,59,572,54,604,50"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="183,30,114,39,113,34,182,24"/>
+<area shape="rect" id="Node000008" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,56,325,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="358,72,325,72,325,67,358,67"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="147,59,114,54,114,49,147,53"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="draw_copy_window" name="draw_copy_window">
+<area shape="rect" id="Node000001" title="Draw window with the information of the copy status." alt="" coords="5,132,138,159"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#a8c103faf93a6a33ed5d018cd957a9c64" title="Draw retangle outline with color." alt="" coords="188,5,311,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,129,128,91,184,48,204,37,206,41,187,53,132,95,89,133"/>
+<area shape="rect" id="Node000004" href="$graphics_8c.html#af38ea7070e0c7c49883f64b45647ad46" title="Draw retangle fill with color." alt="" coords="384,56,461,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,129,137,109,185,92,282,74,369,68,370,73,283,80,186,97,139,114,99,134"/>
+<area shape="rect" id="Node000005" href="$graphics_8c.html#ae47a47951544941d5eef0446172c8a02" title="Draw text." alt="" coords="211,107,288,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="138,133,196,125,197,130,138,139"/>
+<area shape="rect" id="Node000011" href="$graphics_8c.html#a8a4933ae4b9c0a4824b7a3d9383872a2" title="pop current window from the windows stack changing the current window to it&#39;s parent" alt="" coords="204,157,295,184"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="138,152,190,160,189,165,138,157"/>
+<area shape="rect" id="Node000012" href="$graphics_8c.html#a4f0172b3ffdb210d0f7baafa52ec6333" title="Push a new window into the windows stack and make it the current window." alt="" coords="200,208,299,235"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="104,157,187,194,201,199,199,204,185,198,102,162"/>
+<area shape="rect" id="Node000014" href="$graphics_8c.html#a95f64ebb2672ca508bf2523f0a974cf5" title="Convert screnn coordinates to window coordinates." alt="" coords="186,259,313,285"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="87,157,129,199,187,244,196,250,194,254,184,249,126,203,83,161"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#a6426583aa71fdd9d0f4589934b8b7f41" title=" " alt="" coords="532,31,639,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,21,518,36,517,42,311,26"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="462,61,517,52,518,57,462,66"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="288,106,369,82,370,87,289,111"/>
+<area shape="rect" id="Node000006" href="$graphics_8c.html#a88155fa69cfec835851ba3e1a422e902" title=" " alt="" coords="380,107,466,133"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="289,117,365,117,365,123,289,123"/>
+<area shape="rect" id="Node000007" href="$utf8__decode_8c.html#a95be701ea7f1a2e9946ddc11292fee98" title=" " alt="" coords="365,157,480,184"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="289,129,361,150,360,155,288,134"/>
+<area shape="rect" id="Node000008" href="$utf8__decode_8c.html#a6f9f021d4cb9e177a452740d32b69250" title=" " alt="" coords="361,208,484,235"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="289,130,315,143,330,156,339,169,348,181,363,194,371,199,368,203,359,198,344,185,335,172,326,160,311,148,287,135"/>
+<area shape="rect" id="Node000009" href="$utf8__decode_8c.html#a90edd4f5173cc25aefcc78b435d7f8cd" title=" " alt="" coords="562,183,609,209"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="484,209,547,199,548,204,485,214"/>
+<area shape="rect" id="Node000010" href="$utf8__decode_8c.html#ac7df0777ba7a2d59c4a734c9acfae989" title=" " alt="" coords="687,208,726,235"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="485,219,671,219,671,224,485,224"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="610,198,673,212,672,217,609,203"/>
+<area shape="rect" id="Node000013" href="$image_8c.html#a1a94154991cca25d809a2968dee7e97a" title="Creats a sub image from an original image." alt="" coords="377,259,468,285"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="299,233,364,252,362,257,297,238"/>
+</map>

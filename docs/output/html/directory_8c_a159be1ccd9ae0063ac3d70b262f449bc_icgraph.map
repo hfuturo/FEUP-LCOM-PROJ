@@ -1,0 +1,33 @@
+<map id="change_directory" name="change_directory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1167,107,1288,133"/>
+<area shape="rect" id="Node000002" href="$directory_8c.html#a7660cab551148a086907e088ae917494" title="Move existing directory." alt="" coords="1005,56,1113,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1166,104,1105,86,1106,81,1168,99"/>
+<area shape="rect" id="Node000009" href="$directory_8c.html#ad62e42a9928ddc21f6c986904dfb6598" title="Rename existing directory." alt="" coords="998,132,1119,159"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1153,134,1120,139,1120,134,1152,129"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#a274c74a4830a97672a4677f712c3079b" title="Move the content that was selected to current directory." alt="" coords="793,44,950,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="989,68,950,65,951,60,990,62"/>
+<area shape="rect" id="Node000004" href="$state__machine_8c.html#aa87b4c2f2e0a13faefcdcdbacb035cfe" title="Does the operating depending if control_v_operation is set to COPYING or MOVING." alt="" coords="619,43,745,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="778,59,745,59,745,54,778,54"/>
+<area shape="rect" id="Node000005" href="$state__machine_8c.html#a1d779d84325179569abe939c57b19c8e" title="Setup the right click menu." alt="" coords="197,5,290,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="615,41,571,33,494,26,417,22,290,20,290,15,417,16,494,20,572,28,616,36"/>
+<area shape="rect" id="Node000007" href="$state__machine_8c.html#a0519631eccece8f837cfd4de1f3f3cc2" title="Process keys that work the same with kbc or mouse." alt="" coords="373,43,571,69"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="605,59,572,59,572,53,605,53"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,68,114,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="189,40,102,70,100,65,187,35"/>
+<area shape="rect" id="Node000008" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,68,325,95"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="359,71,326,75,325,70,358,66"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="147,84,114,84,114,79,147,79"/>
+<area shape="rect" id="Node000010" href="$file__list_8c.html#aabc31959cf9cfabaa752eb787b279ed6" title="Rename selected file/folder from current directory." alt="" coords="819,135,924,161"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="983,149,924,150,924,145,983,144"/>
+<area shape="rect" id="Node000011" href="$state__machine_8c.html#ae3f83e2e5774d883646629aed0c8434a" title="Perform rename file/directory action." alt="" coords="625,141,739,168"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="804,153,740,155,740,150,804,148"/>
+<area shape="poly" id="edge15_Node000011_Node000008" title=" " alt="" coords="610,142,571,135,325,95,326,90,572,129,611,137"/>
+<area shape="rect" id="Node000012" href="$file__list_8c.html#ad39bea9bf460b3803369820ffebed746" title="File list callback for when the mouse is left clicked." alt="" coords="402,144,543,171"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="610,158,543,159,543,154,610,153"/>
+<area shape="rect" id="Node000014" href="$file__list_8c.html#acc8bf5f620d1b6028eaf9c283139ab38" title="File list callback for when the mouse is right clicked." alt="" coords="386,195,559,221"/>
+<area shape="poly" id="edge16_Node000011_Node000014" title=" " alt="" coords="613,175,529,197,527,191,612,170"/>
+<area shape="rect" id="Node000013" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="169,144,318,171"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="387,160,318,160,318,155,387,155"/>
+<area shape="poly" id="edge14_Node000013_Node000006" title=" " alt="" coords="194,140,93,98,95,93,196,135"/>
+<area shape="poly" id="edge17_Node000014_Node000013" title=" " alt="" coords="394,193,306,174,307,169,395,188"/>
+</map>

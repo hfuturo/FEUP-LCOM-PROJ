@@ -1,0 +1,9 @@
+<map id="move_mouse_file_list" name="move_mouse_file_list">
+<area shape="rect" id="Node000001" title="File list callback for when the mouse moves." alt="" coords="5,56,150,83"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#a9bc7b47bf42df2b6e0b6c565bb210544" title=" " alt="" coords="198,5,327,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,53,197,34,198,39,130,58"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#a95f64ebb2672ca508bf2523f0a974cf5" title="Convert screnn coordinates to window coordinates." alt="" coords="199,56,326,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,67,184,67,184,72,150,72"/>
+<area shape="rect" id="Node000004" href="$file__list_8c.html#a0d726c14d81bbc671cdabc5650af83cb" title=" " alt="" coords="224,107,301,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,81,210,103,208,108,128,86"/>
+</map>

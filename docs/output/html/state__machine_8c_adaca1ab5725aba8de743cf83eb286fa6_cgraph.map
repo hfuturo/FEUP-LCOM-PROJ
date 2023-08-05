@@ -1,0 +1,22 @@
+<map id="process_rename" name="process_rename">
+<area shape="rect" id="Node000001" title="Change state of the program to RENAME and state of the mouse to RENAME_." alt="" coords="5,81,123,108"/>
+<area shape="rect" id="Node000002" href="$text__box_8c.html#a44526dccdf6f94f46b51374b2eedfc99" title="Reset the values of the variables used in the text box." alt="" coords="177,5,287,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,78,170,42,183,36,185,41,172,46,94,83"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#ae739c42ab88d207de8ab3769e576a63a" title="Get selected content&#39;s name and check if it is a directory or a file." alt="" coords="171,56,293,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,83,156,78,156,83,124,88"/>
+<area shape="rect" id="Node000004" href="$file__list_8c.html#ac59914d2c3eecfd43d325ecb72c216b8" title="Set selected file and update the scroll acordingly." alt="" coords="174,107,290,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,101,159,106,158,112,123,106"/>
+<area shape="rect" id="Node000006" href="$text__box_8c.html#a30800934a515726e6fbee53951dbb07f" title="Update text in text box with the new char added." alt="" coords="173,157,291,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="94,106,172,143,185,149,183,154,170,148,92,111"/>
+<area shape="rect" id="Node000005" href="$file__list_8c.html#a0d726c14d81bbc671cdabc5650af83cb" title=" " alt="" coords="364,107,441,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,117,349,117,349,123,291,123"/>
+<area shape="rect" id="Node000007" href="$utf8__decode_8c.html#a95be701ea7f1a2e9946ddc11292fee98" title=" " alt="" coords="345,157,460,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="291,168,330,168,330,173,291,173"/>
+<area shape="rect" id="Node000008" href="$utf8__decode_8c.html#a6f9f021d4cb9e177a452740d32b69250" title=" " alt="" coords="341,208,464,235"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="280,182,342,201,341,206,279,187"/>
+<area shape="rect" id="Node000009" href="$utf8__decode_8c.html#a90edd4f5173cc25aefcc78b435d7f8cd" title=" " alt="" coords="512,183,559,209"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="464,207,498,200,499,206,465,212"/>
+<area shape="rect" id="Node000010" href="$utf8__decode_8c.html#ac7df0777ba7a2d59c4a734c9acfae989" title=" " alt="" coords="607,208,646,235"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="465,219,592,219,592,224,465,224"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="560,200,593,209,591,214,558,205"/>
+</map>

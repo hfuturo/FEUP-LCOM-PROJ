@@ -1,0 +1,13 @@
+<map id="copy_selected_content" name="copy_selected_content">
+<area shape="rect" id="Node000001" title="Copy the content that was selected to current directory." alt="" coords="5,56,161,83"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#a7fe53027573e2d3857303b5283a923d1" title="Check If the name writen by user while creating/renaming file/folder already exists in current direct..." alt="" coords="209,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,53,209,34,210,39,138,58"/>
+<area shape="rect" id="Node000003" href="$directory_8c.html#a354719ba57ff000a5c4acff755c326a3" title="Copy the current directory and all its content." alt="" coords="224,131,330,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,81,228,122,226,127,119,86"/>
+<area shape="rect" id="Node000004" href="$file_8c.html#adab4a1c8a09d54244a8c5ef9b7bbfdf1" title="Copy file." alt="" coords="414,68,486,95"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="161,69,399,77,399,82,161,75"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="247,132,242,122,245,112,257,106,277,104,299,107,310,114,307,119,297,112,277,109,259,111,249,116,247,121,252,129"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="315,128,399,97,401,102,317,133"/>
+<area shape="rect" id="Node000005" href="$directory_8c.html#a13f3531f0f76333f0dd387ce63597c0e" title="Create new directory." alt="" coords="393,131,507,157"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="330,141,378,141,378,147,330,147"/>
+</map>

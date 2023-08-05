@@ -1,0 +1,9 @@
+<map id="menuPost" name="menuPost">
+<area shape="rect" id="Node000001" title="Checks what was the option chosen if it was chosen any." alt="" coords="548,5,629,32"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#ad39bea9bf460b3803369820ffebed746" title="File list callback for when the mouse is left clicked." alt="" coords="359,5,500,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,21,501,21,501,16,533,16"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="162,5,311,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,21,311,21,311,16,344,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="copy_directory" name="copy_directory">
+<area shape="rect" id="Node000001" title="Copy the current directory and all its content." alt="" coords="5,31,112,57"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="31,31,26,22,30,12,41,6,59,4,79,7,89,14,85,18,77,12,58,9,42,11,34,16,32,21,36,29"/>
+<area shape="rect" id="Node000002" href="$file_8c.html#adab4a1c8a09d54244a8c5ef9b7bbfdf1" title="Copy file." alt="" coords="181,5,253,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="112,33,165,24,166,29,113,38"/>
+<area shape="rect" id="Node000003" href="$directory_8c.html#a13f3531f0f76333f0dd387ce63597c0e" title="Create new directory." alt="" coords="160,56,274,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="113,50,145,55,145,60,112,55"/>
+</map>

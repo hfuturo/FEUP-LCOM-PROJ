@@ -1,0 +1,10 @@
+<map id="move_mouse_copy_window" name="move_mouse_copy_window">
+<area shape="rect" id="Node000001" title="Copy window callback for when the mouse is moved." alt="" coords="373,31,554,57"/>
+<area shape="rect" id="Node000002" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,5,325,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,35,325,31,326,25,359,29"/>
+<area shape="rect" id="Node000004" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="169,56,318,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="358,59,319,63,318,58,358,53"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,35,114,39,114,34,147,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="154,60,114,54,114,49,154,54"/>
+</map>

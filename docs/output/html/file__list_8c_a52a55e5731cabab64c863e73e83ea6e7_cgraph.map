@@ -1,0 +1,5 @@
+<map id="save_selected_content" name="save_selected_content">
+<area shape="rect" id="Node000001" title="Save path and name of the selected file/folder." alt="" coords="5,5,159,32"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#ae739c42ab88d207de8ab3769e576a63a" title="Get selected content&#39;s name and check if it is a directory or a file." alt="" coords="207,5,329,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,16,192,16,192,21,159,21"/>
+</map>

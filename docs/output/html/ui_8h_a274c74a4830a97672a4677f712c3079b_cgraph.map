@@ -1,0 +1,11 @@
+<map id="move_selected_content" name="move_selected_content">
+<area shape="rect" id="Node000001" title="Move the content that was selected to current directory." alt="" coords="5,31,163,57"/>
+<area shape="rect" id="Node000002" href="$directory_8c.html#a7660cab551148a086907e088ae917494" title="Move existing directory." alt="" coords="211,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,30,195,26,196,31,163,36"/>
+<area shape="rect" id="Node000004" href="$file_8c.html#a09f1e20c7609bcd7640d0e43157e95ba" title="Move existing file." alt="" coords="228,56,302,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,52,213,59,213,65,163,58"/>
+<area shape="rect" id="Node000003" href="$directory_8c.html#a159be1ccd9ae0063ac3d70b262f449bc" title=" " alt="" coords="367,5,487,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,16,352,16,352,21,319,21"/>
+<area shape="rect" id="Node000005" href="$file_8c.html#af6e303f5f28ebd773cc9e4965ec72781" title=" " alt="" coords="384,56,470,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="302,67,369,67,369,72,302,72"/>
+</map>

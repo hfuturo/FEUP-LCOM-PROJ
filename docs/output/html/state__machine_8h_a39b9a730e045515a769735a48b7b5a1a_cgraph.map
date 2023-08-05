@@ -1,0 +1,18 @@
+<map id="process_delete" name="process_delete">
+<area shape="rect" id="Node000001" title="Call function that deletes the file or directory selected." alt="" coords="5,132,115,159"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#a1773e15fed8f1599f690667a290bdf3f" title="Delete selected file/folder from current directory." alt="" coords="163,107,275,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,134,147,129,148,134,116,139"/>
+<area shape="rect" id="Node000007" href="$file__list_8c.html#ac59914d2c3eecfd43d325ecb72c216b8" title="Set selected file and update the scroll acordingly." alt="" coords="326,157,442,184"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="115,147,311,162,311,168,115,152"/>
+<area shape="rect" id="Node000003" href="$directory_8c.html#a4b63d3ac70ba7f13cb15b92b3ae0b4aa" title="Delete directory." alt="" coords="328,5,441,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,104,273,74,322,42,332,36,334,41,324,46,276,78,238,108"/>
+<area shape="rect" id="Node000005" href="$file_8c.html#a7da68ae812bc824cdf7a9a8e09d3ae8a" title="Delete file." alt="" coords="345,56,424,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="264,103,329,83,331,88,266,109"/>
+<area shape="rect" id="Node000006" href="$file__list_8c.html#ae739c42ab88d207de8ab3769e576a63a" title="Get selected content&#39;s name and check if it is a directory or a file." alt="" coords="323,107,445,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="275,117,308,117,308,123,275,123"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="266,131,325,150,324,155,264,137"/>
+<area shape="rect" id="Node000004" href="$directory_8c.html#ab08d76004de1e54c0d18e143bfd50947" title=" " alt="" coords="494,5,570,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="441,16,479,16,479,21,441,21"/>
+<area shape="rect" id="Node000008" href="$file__list_8c.html#a0d726c14d81bbc671cdabc5650af83cb" title=" " alt="" coords="493,157,571,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="443,168,478,168,478,173,443,173"/>
+</map>

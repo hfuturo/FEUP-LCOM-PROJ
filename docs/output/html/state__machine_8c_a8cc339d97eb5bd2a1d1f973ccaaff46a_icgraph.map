@@ -1,0 +1,7 @@
+<map id="process_keyboard_write" name="process_keyboard_write">
+<area shape="rect" id="Node000001" title="Process special keys when writing name of file/folder." alt="" coords="373,5,534,32"/>
+<area shape="rect" id="Node000002" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,5,325,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,21,326,21,326,16,358,16"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

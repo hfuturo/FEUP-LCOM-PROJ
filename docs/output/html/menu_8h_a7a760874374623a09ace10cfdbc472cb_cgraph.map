@@ -1,0 +1,30 @@
+<map id="draw_menu" name="draw_menu">
+<area shape="rect" id="Node000001" title="Draw Menu." alt="" coords="5,107,93,133"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#a8c103faf93a6a33ed5d018cd957a9c64" title="Draw retangle outline with color." alt="" coords="141,5,263,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,104,139,48,159,37,161,41,142,53,68,109"/>
+<area shape="rect" id="Node000004" href="$graphics_8c.html#af38ea7070e0c7c49883f64b45647ad46" title="Draw retangle fill with color." alt="" coords="334,56,411,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="93,104,140,92,235,78,319,70,319,75,235,83,141,97,94,109"/>
+<area shape="rect" id="Node000005" href="$graphics_8c.html#ae47a47951544941d5eef0446172c8a02" title="Draw text." alt="" coords="163,107,241,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="93,117,148,117,148,123,93,123"/>
+<area shape="rect" id="Node000011" href="$graphics_8c.html#a8a4933ae4b9c0a4824b7a3d9383872a2" title="pop current window from the windows stack changing the current window to it&#39;s parent" alt="" coords="156,157,248,184"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="93,131,146,150,145,155,91,137"/>
+<area shape="rect" id="Node000012" href="$graphics_8c.html#a4f0172b3ffdb210d0f7baafa52ec6333" title="Push a new window into the windows stack and make it the current window." alt="" coords="153,233,251,260"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="68,132,175,222,171,226,65,136"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#a6426583aa71fdd9d0f4589934b8b7f41" title=" " alt="" coords="482,31,589,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,21,468,36,467,42,263,26"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="412,61,467,52,468,57,412,66"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="240,106,319,82,321,87,242,111"/>
+<area shape="rect" id="Node000006" href="$graphics_8c.html#a88155fa69cfec835851ba3e1a422e902" title=" " alt="" coords="330,107,416,133"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="241,117,314,117,314,123,241,123"/>
+<area shape="rect" id="Node000007" href="$utf8__decode_8c.html#a95be701ea7f1a2e9946ddc11292fee98" title=" " alt="" coords="315,157,430,184"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="242,129,313,150,311,155,240,134"/>
+<area shape="rect" id="Node000008" href="$utf8__decode_8c.html#a6f9f021d4cb9e177a452740d32b69250" title=" " alt="" coords="311,208,434,235"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="242,131,265,143,280,156,289,169,298,181,313,194,321,199,318,203,309,198,294,185,285,172,276,160,261,148,240,136"/>
+<area shape="rect" id="Node000009" href="$utf8__decode_8c.html#a90edd4f5173cc25aefcc78b435d7f8cd" title=" " alt="" coords="512,183,559,209"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="434,209,497,199,498,204,435,214"/>
+<area shape="rect" id="Node000010" href="$utf8__decode_8c.html#ac7df0777ba7a2d59c4a734c9acfae989" title=" " alt="" coords="637,208,676,235"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="435,219,621,219,621,224,435,224"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="560,198,623,212,622,217,559,203"/>
+<area shape="rect" id="Node000013" href="$image_8c.html#a1a94154991cca25d809a2968dee7e97a" title="Creats a sub image from an original image." alt="" coords="327,259,418,285"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="252,251,313,260,312,266,251,257"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="set_size_folder" name="set_size_folder">
+<area shape="rect" id="Node000001" title="Call if size has changed, updating variables related with icon&#39;s size." alt="" coords="483,31,592,57"/>
+<area shape="rect" id="Node000002" href="$folder__icon_8c.html#a337bff6a1a88698a19d6db525ce4ffc5" title="Draw folder icon on the home screen." alt="" coords="318,5,435,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,36,435,31,436,25,469,31"/>
+<area shape="rect" id="Node000005" href="$folder__icon_8c.html#ad9557a8abc444deac8d181abcc1f0daa" title="Inicialize folder icon from home screen with an image and size." alt="" coords="162,56,270,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="469,52,270,68,270,62,468,47"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a1f3e0c5429ab621b286e169246bf1374" title=" " alt="" coords="163,5,269,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,21,269,21,269,16,303,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="148,32,115,38,114,33,148,27"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="147,61,114,55,114,50,147,56"/>
+</map>

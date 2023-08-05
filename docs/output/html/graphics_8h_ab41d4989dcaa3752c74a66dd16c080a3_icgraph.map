@@ -1,0 +1,40 @@
+<map id="draw_rect" name="draw_rect">
+<area shape="rect" id="Node000001" title="Draw retangle fill with color." alt="" coords="1088,208,1166,235"/>
+<area shape="rect" id="Node000002" href="$copy__window_8c.html#a1fd69a649b1984e827dae10c76881530" title="Draw window with the information of the copy status." alt="" coords="679,314,811,340"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1106,248,1077,274,1041,296,983,316,922,327,863,332,812,333,811,328,863,327,921,322,981,310,1039,291,1074,270,1102,244"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html#abcdbbab4e0e6afd8377e6bf4409601a6" title="Draw content that is dependent of the state." alt="" coords="324,263,425,290"/>
+<area shape="poly" id="edge24_Node000001_Node000003" title=" " alt="" coords="1115,195,1104,168,1088,138,1066,111,1039,89,1015,78,993,73,954,73,912,82,859,90,768,94,728,100,680,114,594,148,513,191,444,233,397,265,394,260,442,228,510,186,591,144,678,109,727,95,767,89,859,84,911,77,953,68,994,67,1016,73,1042,85,1070,107,1092,136,1109,166,1120,193"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a1f3e0c5429ab621b286e169246bf1374" title=" " alt="" coords="162,415,268,442"/>
+<area shape="poly" id="edge25_Node000001_Node000004" title=" " alt="" coords="1117,195,1106,163,1090,127,1068,92,1039,62,1001,38,967,22,934,13,903,9,833,11,746,14,555,14,517,17,481,28,448,44,417,66,389,92,363,121,317,187,281,256,253,322,222,415,217,414,248,320,276,254,313,184,358,118,385,88,414,62,445,40,479,23,516,12,555,8,746,8,833,5,903,4,936,8,969,17,1004,34,1042,58,1072,88,1095,124,1111,161,1122,193"/>
+<area shape="rect" id="Node000006" href="$menu_8c.html#a7a760874374623a09ace10cfdbc472cb" title="Draw Menu." alt="" coords="701,263,789,290"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1097,246,1071,262,1041,274,973,287,904,291,840,289,789,285,789,280,841,284,904,285,972,281,1040,269,1068,257,1095,242"/>
+<area shape="rect" id="Node000007" href="$file__list_8c.html#a234d265e67d67da422ce67326a8a2a0f" title="List all the files and directories from the current directory." alt="" coords="522,238,590,264"/>
+<area shape="poly" id="edge23_Node000001_Node000007" title=" " alt="" coords="1084,205,1040,191,939,175,859,172,779,181,679,203,628,220,585,240,582,235,626,215,678,198,779,176,859,167,939,170,1041,186,1086,200"/>
+<area shape="rect" id="Node000008" href="$graphics_8c.html#a9a01349470b6bb49a052a9ab9ed62720" title="Draw text with a diferent background in utf32." alt="" coords="873,200,1026,243"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1073,224,1027,224,1027,219,1073,219"/>
+<area shape="rect" id="Node000009" href="$text__box_8c.html#a3c43b609f08f0dfd12b0e8bf7bf3e6b2" title="Draw text box." alt="" coords="692,212,798,239"/>
+<area shape="poly" id="edge20_Node000001_Node000009" title=" " alt="" coords="1086,244,1041,258,990,265,950,267,859,258,788,242,790,237,859,252,950,262,990,260,1040,252,1084,239"/>
+<area shape="rect" id="Node000010" href="$graphics_8c.html#ae47a47951544941d5eef0446172c8a02" title="Draw text." alt="" coords="911,419,988,446"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1122,250,1112,285,1096,325,1073,367,1042,402,1017,419,990,428,988,423,1015,414,1039,398,1068,363,1091,323,1107,283,1117,249"/>
+<area shape="rect" id="Node000013" href="$graphics_8c.html#ae70bff168b15dd4d30008d83b8479d30" title="Draw text with a diferent background color in utf8." alt="" coords="859,99,1040,126"/>
+<area shape="poly" id="edge21_Node000001_Node000013" title=" " alt="" coords="1102,199,1073,172,1039,147,1000,129,1002,124,1042,142,1077,168,1106,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="663,319,426,286,426,281,664,313"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="351,302,232,417,228,413,347,298"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,415,114,442"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,431,114,431,114,426,147,426"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="686,271,590,258,591,253,687,266"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="507,260,426,272,426,267,507,255"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="858,226,798,227,798,222,858,221"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="678,237,591,249,590,244,677,232"/>
+<area shape="poly" id="edge14_Node000010_Node000002" title=" " alt="" coords="896,420,858,403,833,382,809,361,777,343,779,339,813,357,836,378,860,398,898,415"/>
+<area shape="poly" id="edge19_Node000010_Node000004" title=" " alt="" coords="896,435,268,431,268,426,896,429"/>
+<area shape="poly" id="edge17_Node000010_Node000006" title=" " alt="" coords="920,411,857,352,834,326,809,304,788,293,790,288,813,300,838,322,861,348,924,407"/>
+<area shape="poly" id="edge18_Node000010_Node000007" title=" " alt="" coords="896,426,792,401,734,380,677,355,644,334,614,310,568,267,572,263,617,306,647,330,680,350,736,375,794,396,897,421"/>
+<area shape="rect" id="Node000011" href="$background__info_8c.html#a6279c5d71f0e6c770f2f6e16a528335a" title="Draws the current date, day of the week and time in the background image." alt="" coords="481,466,631,492"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="896,441,631,473,631,468,896,436"/>
+<area shape="rect" id="Node000012" href="$folder__icon_8c.html#a337bff6a1a88698a19d6db525ce4ffc5" title="Draw folder icon on the home screen." alt="" coords="316,516,433,543"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="897,449,812,471,722,491,631,507,527,520,434,528,434,523,526,515,630,502,721,486,810,466,896,444"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="466,471,316,450,268,441,269,436,316,444,467,466"/>
+<area shape="poly" id="edge16_Node000012_Node000004" title=" " alt="" coords="333,511,315,500,233,444,236,440,317,495,336,507"/>
+<area shape="poly" id="edge22_Node000013_Node000007" title=" " alt="" coords="845,113,762,122,720,132,680,147,645,167,614,192,570,239,566,236,611,188,642,163,678,142,718,127,761,117,844,108"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="rtc_init" name="rtc_init">
+<area shape="rect" id="Node000001" title="Initializes RTC. Resets interrupts, sets interrupts and sets the current background theme." alt="" coords="5,157,66,184"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#a9764f68ed0c2d0c3e053a92f742a40d4" title="Sets the initial background color." alt="" coords="114,132,294,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,164,98,159,99,164,66,169"/>
+<area shape="rect" id="Node000009" href="$rtc_8c.html#a187f5f3c4e9668abb82f17b941a23a67" title="Gets the current time." alt="" coords="347,183,468,209"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="66,170,333,188,332,194,66,175"/>
+<area shape="rect" id="Node000014" href="$rtc_8c.html#a19669438467bb3271cd8b6c8b34496bf" title="Clears RTC interrupts." alt="" coords="138,284,270,311"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="56,182,174,272,171,277,53,186"/>
+<area shape="rect" id="Node000015" href="$rtc_8c.html#a9c6639965791f1d99bfc4985796a3172" title="Enables updating interrupts." alt="" coords="521,5,665,32"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="52,155,79,135,113,118,216,82,322,55,422,36,506,24,507,30,422,41,323,60,217,87,115,122,82,140,55,159"/>
+<area shape="rect" id="Node000003" href="$rtc_8c.html#aabb32eea70dc55a69739a96f434ec6f9" title="Sets an alarm to the corresponding time of the day." alt="" coords="342,95,473,121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="280,129,327,120,328,125,281,134"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="261,157,338,176,336,181,260,162"/>
+<area shape="rect" id="Node000004" href="$rtc_8c.html#a6981618dcc6c4e0aee76b4af41f1d627" title="Sets a RTC alarm." alt="" coords="543,56,643,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="473,92,528,80,529,85,474,97"/>
+<area shape="rect" id="Node000005" href="$rtc_8c.html#ab7a287b4a366738270ef67a399357513" title="Converts a binary number to BCD." alt="" coords="734,56,836,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="644,67,719,67,719,72,644,72"/>
+<area shape="rect" id="Node000006" href="$rtc_8c.html#a1e0ff6dbdc28b70d706df7f05301d697" title="Reads the output of a register." alt="" coords="724,208,846,235"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="644,81,666,92,697,116,725,143,768,194,763,198,721,147,693,120,663,97,641,86"/>
+<area shape="rect" id="Node000008" href="$rtc_8c.html#a0354fdc7e37660ef68189072d70fbe91" title="Writes a command byte to RTC register." alt="" coords="713,5,857,32"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="643,54,717,34,718,39,644,59"/>
+<area shape="rect" id="Node000007" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="905,208,995,235"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="846,219,890,219,890,224,846,224"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="469,197,710,214,709,219,469,203"/>
+<area shape="rect" id="Node000010" href="$rtc_8c.html#a1c287e84c6463ef35232ba98af4a260c" title="Converts a BCD number to binary." alt="" coords="542,107,644,133"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="437,180,520,143,537,136,539,141,522,148,439,184"/>
+<area shape="rect" id="Node000011" href="$rtc_8c.html#a7800449296107f13a147bca4008337e5" title="Checks if RTC is operating in binary mode." alt="" coords="554,259,632,285"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="444,207,546,250,544,255,441,212"/>
+<area shape="rect" id="Node000012" href="$rtc_8c.html#aea69ebda94f627f80af4bbce88cf7d10" title="Checks if RTC is updating registers." alt="" coords="547,309,639,336"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="423,208,465,250,493,274,523,295,534,301,532,306,520,300,489,278,461,254,419,212"/>
+<area shape="rect" id="Node000013" href="$rtc_8c.html#a8e469fe9d78afd2775bd3caba7b824e6" title="Checks if the RTC readings are correct." alt="" coords="543,157,643,184"/>
+<area shape="poly" id="edge15_Node000009_Node000013" title=" " alt="" coords="468,185,528,177,529,182,469,190"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="632,259,717,236,718,242,633,264"/>
+<area shape="poly" id="edge14_Node000012_Node000006" title=" " alt="" coords="637,306,663,295,711,268,752,241,755,246,713,273,666,300,639,311"/>
+<area shape="poly" id="edge16_Node000013_Node000006" title=" " alt="" coords="644,181,718,201,717,206,643,186"/>
+<area shape="poly" id="edge18_Node000014_Node000006" title=" " alt="" coords="238,309,316,337,367,351,424,363,484,371,545,371,606,364,664,346,696,326,725,300,766,246,771,249,729,303,700,330,666,350,607,369,546,377,484,376,423,368,366,356,314,342,236,314"/>
+<area shape="poly" id="edge21_Node000015_Node000006" title=" " alt="" coords="647,30,666,42,691,69,720,109,771,193,766,196,715,112,687,72,663,46,644,35"/>
+<area shape="poly" id="edge22_Node000015_Node000008" title=" " alt="" coords="665,16,698,16,698,21,665,21"/>
+</map>

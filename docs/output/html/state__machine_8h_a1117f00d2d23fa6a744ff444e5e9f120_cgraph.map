@@ -1,0 +1,13 @@
+<map id="commit_new_file" name="commit_new_file">
+<area shape="rect" id="Node000001" title="Perform create new file action." alt="" coords="5,56,123,83"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#a7fe53027573e2d3857303b5283a923d1" title="Check If the name writen by user while creating/renaming file/folder already exists in current direct..." alt="" coords="171,5,307,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,53,175,34,177,39,114,58"/>
+<area shape="rect" id="Node000003" href="$file_8c.html#adb2d2647691c1c3f55923a6d98175c04" title="Create new file." alt="" coords="199,56,279,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,67,184,67,184,72,123,72"/>
+<area shape="rect" id="Node000004" href="$text__box_8c.html#a2bb76c5f546c4e6440d0513da2c833d2" title="Get text that user wrote while creating/renaming file/folder." alt="" coords="207,107,271,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,81,193,104,192,109,112,86"/>
+<area shape="rect" id="Node000005" href="$utf8__decode_8c.html#ac1801b065967738df5d64c42061a1e89" title="Convert utf32 string to utf8." alt="" coords="355,99,509,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="272,117,340,117,340,123,272,123"/>
+<area shape="rect" id="Node000006" href="$utf8__decode_8c.html#af28e59545bd54ad1ef4dcf5f15251c1f" title=" " alt="" coords="557,107,692,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="510,117,542,117,542,123,510,123"/>
+</map>

@@ -1,0 +1,1 @@
+lcom_stop proj;make clean;clang devices/graphics/image.c -c -o image.o && make && lcom_run proj

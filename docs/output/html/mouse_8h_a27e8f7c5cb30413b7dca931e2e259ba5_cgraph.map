@@ -1,0 +1,8 @@
+<map id="mouse_data_reporting" name="mouse_data_reporting">
+<area shape="rect" id="Node000001" title="Enable/Disable Data Reporting in Steam mode." alt="" coords="5,31,155,57"/>
+<area shape="rect" id="Node000002" href="$mouse_8c.html#a8873bdd8308fae2d0963af53760014ea" title="Write a command to mouse." alt="" coords="203,5,329,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,31,187,27,188,32,156,36"/>
+<area shape="rect" id="Node000003" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="377,31,467,57"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="155,41,362,41,362,47,155,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,26,363,32,362,37,329,32"/>
+</map>

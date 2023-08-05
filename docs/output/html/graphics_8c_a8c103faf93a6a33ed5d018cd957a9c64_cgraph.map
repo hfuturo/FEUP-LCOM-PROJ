@@ -1,0 +1,5 @@
+<map id="draw_outline_rect" name="draw_outline_rect">
+<area shape="rect" id="Node000001" title="Draw retangle outline with color." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#a6426583aa71fdd9d0f4589934b8b7f41" title=" " alt="" coords="176,5,282,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,16,161,16,161,21,128,21"/>
+</map>

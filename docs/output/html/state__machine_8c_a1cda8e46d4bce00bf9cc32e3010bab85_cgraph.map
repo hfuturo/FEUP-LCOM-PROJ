@@ -1,0 +1,9 @@
+<map id="process_new_dir" name="process_new_dir">
+<area shape="rect" id="Node000001" title="Change state of the program to NEW_DIRECTORY and state of the mouse to NEW_DIRECTORY_." alt="" coords="5,31,124,57"/>
+<area shape="rect" id="Node000002" href="$text__box_8c.html#a44526dccdf6f94f46b51374b2eedfc99" title="Reset the values of the variables used in the text box." alt="" coords="175,5,285,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,32,160,27,161,32,125,38"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#ac59914d2c3eecfd43d325ecb72c216b8" title="Set selected file and update the scroll acordingly." alt="" coords="172,56,288,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,50,157,56,157,61,124,56"/>
+<area shape="rect" id="Node000004" href="$file__list_8c.html#a0d726c14d81bbc671cdabc5650af83cb" title=" " alt="" coords="336,56,413,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="289,67,321,67,321,72,289,72"/>
+</map>

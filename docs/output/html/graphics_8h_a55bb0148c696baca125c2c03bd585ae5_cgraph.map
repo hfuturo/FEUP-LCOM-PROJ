@@ -1,0 +1,7 @@
+<map id="set_frame_buffer" name="set_frame_buffer">
+<area shape="rect" id="Node000001" title="Map video memory." alt="" coords="5,5,122,32"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#a4f0172b3ffdb210d0f7baafa52ec6333" title="Push a new window into the windows stack and make it the current window." alt="" coords="170,5,268,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,16,155,16,155,21,122,21"/>
+<area shape="rect" id="Node000003" href="$image_8c.html#a1a94154991cca25d809a2968dee7e97a" title="Creats a sub image from an original image." alt="" coords="316,5,407,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,16,301,16,301,21,268,21"/>
+</map>

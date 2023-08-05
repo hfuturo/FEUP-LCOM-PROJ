@@ -1,0 +1,7 @@
+<map id="process_open" name="process_open">
+<area shape="rect" id="Node000001" title="Call function that opens the directory selected." alt="" coords="302,5,404,32"/>
+<area shape="rect" id="Node000002" href="$state__machine_8c.html#a1d779d84325179569abe939c57b19c8e" title="Setup the right click menu." alt="" coords="162,5,254,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,21,254,21,254,16,287,16"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

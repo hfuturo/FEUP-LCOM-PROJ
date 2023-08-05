@@ -1,0 +1,27 @@
+<map id="getText" name="getText">
+<area shape="rect" id="Node000001" title="Get text that user wrote while creating/renaming file/folder." alt="" coords="746,56,810,83"/>
+<area shape="rect" id="Node000002" href="$state__machine_8c.html#abfa66020dfdae569fe80b540afbcd134" title="Perform create new directory action." alt="" coords="581,5,697,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="731,55,677,35,679,30,733,50"/>
+<area shape="rect" id="Node000008" href="$state__machine_8c.html#a1117f00d2d23fa6a744ff444e5e9f120" title="Perform create new file action." alt="" coords="580,56,698,83"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="731,72,698,72,698,67,731,67"/>
+<area shape="rect" id="Node000009" href="$state__machine_8c.html#ae3f83e2e5774d883646629aed0c8434a" title="Perform rename file/directory action." alt="" coords="582,107,696,133"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="733,88,679,109,677,104,731,83"/>
+<area shape="rect" id="Node000003" href="$file__list_8c.html#ad39bea9bf460b3803369820ffebed746" title="File list callback for when the mouse is left clicked." alt="" coords="375,56,516,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="572,39,500,58,499,53,571,34"/>
+<area shape="rect" id="Node000006" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="364,107,527,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="590,41,582,46,568,59,559,72,549,84,534,97,510,108,507,104,531,92,545,81,555,68,564,55,579,42,587,37"/>
+<area shape="rect" id="Node000007" href="$file__list_8c.html#acc8bf5f620d1b6028eaf9c283139ab38" title="File list callback for when the mouse is right clicked." alt="" coords="359,5,532,32"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="566,21,533,21,533,16,566,16"/>
+<area shape="rect" id="Node000004" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="162,56,311,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="360,72,311,72,311,67,360,67"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,114,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,85,115,90,114,84,146,80"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="349,116,114,101,114,96,349,111"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="374,39,295,58,294,53,373,33"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="566,72,517,72,517,67,566,67"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="572,89,500,109,499,103,571,84"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="571,54,499,35,500,30,572,49"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="571,105,499,86,500,81,572,100"/>
+<area shape="poly" id="edge15_Node000009_Node000006" title=" " alt="" coords="567,123,528,123,528,117,567,117"/>
+<area shape="poly" id="edge16_Node000009_Node000007" title=" " alt="" coords="587,102,579,97,564,83,555,70,545,58,531,46,507,35,510,30,534,42,549,54,559,67,568,80,582,93,590,98"/>
+</map>

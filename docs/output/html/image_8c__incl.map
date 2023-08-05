@@ -1,0 +1,18 @@
+<map id="src/devices/graphics/image.c" name="src/devices/graphics/image.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="70,5,210,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,83,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,51,72,88,68,84,114,47"/>
+<area shape="rect" id="Node000003" href="$image_8h.html" title=" " alt="" coords="106,96,174,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,49,143,81,137,81,137,49"/>
+<area shape="rect" id="Node000006" href="$stb__image_8h.html" title=" " alt="" coords="198,96,290,123"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="168,46,218,85,215,89,165,51"/>
+<area shape="rect" id="Node000004" href="$pixel_8h.html" title=" " alt="" coords="53,171,112,197"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="132,125,104,161,100,157,128,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="84,245,148,272"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="141,124,123,231,118,230,135,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="91,197,107,231,102,233,86,199"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="205,171,265,197"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="245,124,241,156,236,155,240,123"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="288,171,352,197"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="259,121,298,158,295,162,255,125"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="draw_text" name="draw_text">
+<area shape="rect" id="Node000001" title="Draw text." alt="" coords="814,132,891,159"/>
+<area shape="rect" id="Node000002" href="$background__info_8c.html#a6279c5d71f0e6c770f2f6e16a528335a" title="Draws the current date, day of the week and time in the background image." alt="" coords="481,5,631,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="834,122,805,85,786,67,765,53,733,39,698,30,631,21,632,15,699,24,734,34,767,48,789,63,808,81,838,118"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a1f3e0c5429ab621b286e169246bf1374" title=" " alt="" coords="162,95,268,121"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="821,125,795,109,765,97,697,83,627,75,557,72,488,73,364,84,269,100,268,94,363,79,488,68,557,66,628,69,698,77,767,92,797,105,824,121"/>
+<area shape="rect" id="Node000005" href="$copy__window_8c.html#a1fd69a649b1984e827dae10c76881530" title="Draw window with the information of the copy status." alt="" coords="490,195,622,221"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="800,159,623,197,622,192,799,154"/>
+<area shape="rect" id="Node000007" href="$folder__icon_8c.html#a337bff6a1a88698a19d6db525ce4ffc5" title="Draw folder icon on the home screen." alt="" coords="316,220,433,247"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="813,168,767,189,701,218,671,228,631,236,579,242,527,244,434,241,434,236,526,239,579,237,630,231,669,222,699,213,765,184,811,163"/>
+<area shape="rect" id="Node000008" href="$menu_8c.html#a7a760874374623a09ace10cfdbc472cb" title="Draw Menu." alt="" coords="679,107,766,133"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="799,138,766,131,767,126,800,132"/>
+<area shape="rect" id="Node000009" href="$file__list_8c.html#a234d265e67d67da422ce67326a8a2a0f" title="List all the files and directories from the current directory." alt="" coords="522,132,590,159"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="799,148,590,148,590,143,799,143"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,25,393,34,317,53,273,74,236,96,234,92,270,69,315,48,392,29,466,20"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,95,114,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,111,114,111,114,105,147,105"/>
+<area shape="rect" id="Node000006" href="$state__machine_8c.html#abcdbbab4e0e6afd8377e6bf4409601a6" title="Draw content that is dependent of the state." alt="" coords="324,132,425,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="500,192,415,162,416,157,502,187"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="309,133,268,123,269,118,310,128"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="343,212,232,124,235,120,346,208"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="664,131,591,143,590,138,664,126"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="507,148,426,148,426,143,507,143"/>
+</map>

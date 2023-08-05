@@ -1,0 +1,7 @@
+<map id="ImageCache" name="ImageCache">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,99,213"/>
+<area shape="rect" id="Node000002" href="$struct_image32.html" title="Struct to define an image with transparency." alt="" coords="17,96,87,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,138,55,186,49,186,49,138"/>
+<area shape="rect" id="Node000003" href="$structpixel32.html" title="Pixel structure of 32 bits." alt="" coords="21,5,83,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,47,55,95,49,95,49,47"/>
+</map>

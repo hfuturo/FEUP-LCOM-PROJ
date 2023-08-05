@@ -1,0 +1,12 @@
+<map id="process_control_v" name="process_control_v">
+<area shape="rect" id="Node000001" title="Does the operating depending if control_v_operation is set to COPYING or MOVING." alt="" coords="619,31,745,57"/>
+<area shape="rect" id="Node000002" href="$state__machine_8c.html#a1d779d84325179569abe939c57b19c8e" title="Setup the right click menu." alt="" coords="197,5,290,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="604,42,290,24,290,19,605,37"/>
+<area shape="rect" id="Node000004" href="$state__machine_8c.html#a0519631eccece8f837cfd4de1f3f3cc2" title="Process keys that work the same with kbc or mouse." alt="" coords="373,56,571,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="605,56,572,60,571,55,604,51"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,30,114,39,113,34,182,24"/>
+<area shape="rect" id="Node000005" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,56,325,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="358,72,325,72,325,67,358,67"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="147,59,114,54,114,49,147,53"/>
+</map>

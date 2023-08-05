@@ -1,0 +1,28 @@
+<map id="cache_lookup" name="cache_lookup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="773,56,874,83"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#a234d265e67d67da422ce67326a8a2a0f" title="List all the files and directories from the current directory." alt="" coords="638,19,706,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="757,56,706,43,707,38,759,51"/>
+<area shape="rect" id="Node000006" href="$file__list_8c.html#ae14604fb4b896d954c46ee21f4a8e983" title="Open selected file/folder." alt="" coords="619,81,725,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="758,83,725,89,724,83,757,78"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html#abcdbbab4e0e6afd8377e6bf4409601a6" title="Draw content that is dependent of the state." alt="" coords="422,5,523,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="623,31,523,25,524,19,623,26"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a1f3e0c5429ab621b286e169246bf1374" title=" " alt="" coords="190,5,297,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="407,21,297,21,297,16,407,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,114,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="181,40,163,46,87,83,84,78,161,42,179,35"/>
+<area shape="rect" id="Node000007" href="$file__list_8c.html#ad39bea9bf460b3803369820ffebed746" title="File list callback for when the mouse is left clicked." alt="" coords="402,56,543,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="604,89,543,81,544,76,605,83"/>
+<area shape="rect" id="Node000009" href="$state__machine_8c.html#a0519631eccece8f837cfd4de1f3f3cc2" title="Process keys that work the same with kbc or mouse." alt="" coords="373,107,571,133"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="605,106,572,110,572,105,604,101"/>
+<area shape="rect" id="Node000011" href="$state__machine_8c.html#a6c2c698ef111bf6a959a13bbcb076eb0" title="Call function that opens the directory selected." alt="" coords="421,157,523,184"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="636,118,572,148,525,162,523,157,570,143,634,113"/>
+<area shape="rect" id="Node000008" href="$state__machine_8c.html#afc8f4fb95620d7e1707cf328e0ecb284" title="Process mouse event." alt="" coords="169,56,318,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="387,72,318,72,318,67,387,67"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="154,84,114,90,114,85,154,79"/>
+<area shape="rect" id="Node000010" href="$state__machine_8c.html#afaf566aa26bae666fae87ed57e3d4c87" title="Process key pressed." alt="" coords="162,107,325,133"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="358,123,325,123,325,117,358,117"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="147,109,114,105,114,99,147,104"/>
+<area shape="rect" id="Node000012" href="$state__machine_8c.html#a1d779d84325179569abe939c57b19c8e" title="Setup the right click menu." alt="" coords="197,157,290,184"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="406,173,290,173,290,168,406,168"/>
+<area shape="poly" id="edge14_Node000012_Node000005" title=" " alt="" coords="182,156,161,148,84,111,87,106,163,143,184,151"/>
+</map>

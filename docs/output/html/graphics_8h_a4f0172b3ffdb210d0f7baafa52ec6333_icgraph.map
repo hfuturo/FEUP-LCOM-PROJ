@@ -1,0 +1,20 @@
+<map id="push_window" name="push_window">
+<area shape="rect" id="Node000001" title="Push a new window into the windows stack and make it the current window." alt="" coords="810,81,908,108"/>
+<area shape="rect" id="Node000002" href="$copy__window_8c.html#a1fd69a649b1984e827dae10c76881530" title="Draw window with the information of the copy status." alt="" coords="630,5,762,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="820,76,761,46,734,35,736,30,763,42,822,71"/>
+<area shape="rect" id="Node000006" href="$menu_8c.html#a7a760874374623a09ace10cfdbc472cb" title="Draw Menu." alt="" coords="652,56,740,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="795,87,739,79,740,73,796,82"/>
+<area shape="rect" id="Node000007" href="$file__list_8c.html#a234d265e67d67da422ce67326a8a2a0f" title="List all the files and directories from the current directory." alt="" coords="489,69,558,96"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="795,99,630,97,558,90,559,85,630,92,796,94"/>
+<area shape="rect" id="Node000008" href="$graphics_8c.html#a55bb0148c696baca125c2c03bd585ae5" title="Map video memory." alt="" coords="465,145,582,172"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="796,109,583,150,582,145,795,104"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html#abcdbbab4e0e6afd8377e6bf4409601a6" title="Draw content that is dependent of the state." alt="" coords="316,69,417,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="616,33,466,60,418,71,417,66,465,55,615,28"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a1f3e0c5429ab621b286e169246bf1374" title=" " alt="" coords="162,76,268,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="301,88,268,90,268,84,301,83"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,113,114,140"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="148,108,115,116,114,111,147,103"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="637,77,558,83,558,77,637,71"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="474,85,418,85,418,80,474,80"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="450,156,114,133,114,128,451,151"/>
+</map>

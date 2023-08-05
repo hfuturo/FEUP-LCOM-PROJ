@@ -1,0 +1,9 @@
+<map id="rtc_update_interrupts" name="rtc_update_interrupts">
+<area shape="rect" id="Node000001" title="Enables updating interrupts." alt="" coords="5,31,149,57"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#a1e0ff6dbdc28b70d706df7f05301d697" title="Reads the output of a register." alt="" coords="208,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,32,193,26,194,31,150,37"/>
+<area shape="rect" id="Node000004" href="$rtc_8c.html#a0354fdc7e37660ef68189072d70fbe91" title="Writes a command byte to RTC register." alt="" coords="197,56,341,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,51,182,55,182,61,149,56"/>
+<area shape="rect" id="Node000003" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="389,5,479,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,16,374,16,374,21,330,21"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="src/devices/graphics/image.h" name="src/devices/graphics/image.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,145,48"/>
+<area shape="rect" id="Node000002" href="$pixel_8h.html" title=" " alt="" coords="12,96,71,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,50,55,83,50,81,64,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="43,171,107,197"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="81,48,85,83,86,123,82,156,77,156,80,123,80,83,76,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,122,66,156,61,158,45,124"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="src/devices/keyboard/scancodes.h" name="src/devices/keyboard/scancodes.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,5,190,48"/>
+<area shape="rect" id="Node000002" href="$main_8c.html" title=" " alt="" coords="5,104,88,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,61,59,105,55,102,91,58"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html" title=" " alt="" coords="111,96,273,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,58,177,94,173,97,143,61"/>
+</map>

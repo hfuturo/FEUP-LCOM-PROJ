@@ -1,0 +1,11 @@
+<map id="draw_text_box" name="draw_text_box">
+<area shape="rect" id="Node000001" title="Draw text box." alt="" coords="582,5,687,32"/>
+<area shape="rect" id="Node000002" href="$file__list_8c.html#a234d265e67d67da422ce67326a8a2a0f" title="List all the files and directories from the current directory." alt="" coords="465,5,534,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="567,21,534,21,534,16,567,16"/>
+<area shape="rect" id="Node000003" href="$state__machine_8c.html#abcdbbab4e0e6afd8377e6bf4409601a6" title="Draw content that is dependent of the state." alt="" coords="316,5,417,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,21,418,21,418,16,451,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a1f3e0c5429ab621b286e169246bf1374" title=" " alt="" coords="162,5,268,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="301,21,268,21,268,16,301,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>
